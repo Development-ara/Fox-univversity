@@ -130,3 +130,10 @@ nav {
 .feature-box p {
     color: #777;
 }
+.color{
+    background-color: #f26522;
+    color: white;
+}
+.color p{
+    color: white;
+}
